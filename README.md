@@ -1,4 +1,4 @@
-# Jhelper - SysHelper
+## Jhelper - SysHelper
 
 O Jhelper é um sistema desenvolvido para aprimorar a experiência de jogadores, automatizando tarefas repetitivas e fornecendo ferramentas para otimizar a gestão de recursos dentro do jogo. Além disso, o Jhelper também oferece funcionalidades como o gerenciamento de licenças, autenticação de usuários e integração com APIs externas para atualizações em tempo real, facilitando a automação e o controle das tarefas de forma prática e segura.
 
