@@ -1,16 +1,17 @@
-## Jhelper - SysHelper
+# Jhelper - SysHelper
 
+## Descrição
 O Jhelper é um sistema desenvolvido para aprimorar a experiência de jogadores, automatizando tarefas repetitivas e fornecendo ferramentas para otimizar a gestão de recursos dentro do jogo. Além disso, o Jhelper também oferece funcionalidades como o gerenciamento de licenças, autenticação de usuários e integração com APIs externas para atualizações em tempo real, facilitando a automação e o controle das tarefas de forma prática e segura.
 
-Tecnologias Utilizadas
-AutoHotkey (AHK): Usado para automação de tarefas dentro do jogo.
-Python: Para gerenciamento de chaves de licença e integração com APIs externas.
-Git: Utilizado para controle de versão e manutenção do código.
-Docker: Para containerizar o ambiente de desenvolvimento e facilitar a implantação.
-NGINX: Para servir o aplicativo e balanceamento de carga.
-Banco de Dados (SQLite/MySQL): Armazenamento de informações de licenças e usuários.
-API RESTful: Para comunicação remota com o cliente.
-Funcionalidades Principais
+## Tecnologias Utilizadas
+# - AutoHotkey (AHK): Usado para automação de tarefas dentro do jogo.
+# - Python: Para gerenciamento de chaves de licença e integração com APIs externas.
+# - Git: Utilizado para controle de versão e manutenção do código.
+# - Docker: Para containerizar o ambiente de desenvolvimento e facilitar a implantação.
+# - NGINX: Para servir o aplicativo e balanceamento de carga.
+# - Banco de Dados (SQLite/MySQL): Armazenamento de informações de licenças e usuários.
+# - API RESTful: Para comunicação remota com o cliente.
+## Funcionalidades Principais
 Automação de Tarefas Repetitivas: Permite que o jogador automatize ações, como cliques e uso de itens, economizando tempo e esforço.
 Gerenciamento de Licenças: O servidor valida a licença de cada usuário, garantindo o uso legítimo da aplicação.
 Autenticação de Usuários: Sistema de login para personalização da experiência do jogador.
